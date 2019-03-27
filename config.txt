@@ -1,7 +1,6 @@
 owner=516473846983950336
 prefix=Torky
-game=Fuk,You,
-setGame=OHnana
+setgame=Fuk,You,
 stayinchannel=true
 songinstatus=false
 token=NTU5Mjg5Nzc0ODE3NDExMTAy.D3jOtA.JIeovWwL4Kt6WWgNidfn0TJVFgU
