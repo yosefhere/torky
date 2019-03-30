@@ -3,4 +3,4 @@ prefix=Torky
 setgame=Fuk,You,
 stayinchannel=true
 songinstatus=false
-token=NTU5Mjg5Nzc0ODE3NDExMTAy.D3jOtA.JIeovWwL4Kt6WWgNidfn0TJVFgU
+token=NTU5Mjg5Nzc0ODE3NDExMTAy.XJ8c_g.xXt7SscUa05r0fWDTTs3P9Gp8mY
